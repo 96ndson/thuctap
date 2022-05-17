@@ -5,4 +5,8 @@ Project sử dụng Laravel 8
 ```
 APP_NAME=Laravel
 APP_URL=http://localhost/ThucTap/InternProject/public/
-```
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=internproject
+DB_USERNAME=root
