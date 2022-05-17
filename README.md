@@ -3,6 +3,6 @@ Thuctap Project
 Project sử dụng Laravel 8
 #### Setting
 ```
-APP_NAME=InternProject
-APP_URL=
+APP_NAME=Laravel
+APP_URL=http://localhost/ThucTap/InternProject/public/
 ```
