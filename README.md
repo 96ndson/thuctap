@@ -1,7 +1,8 @@
 Thuctap Project
-#### Mo ta
+#### Mô tả
+Project sử dụng Laravel 8
 #### Setting
 ```
-APP_NAME=
+APP_NAME=InternProject
 APP_URL=
 ```
